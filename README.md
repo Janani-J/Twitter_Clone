@@ -1,3 +1,19 @@
+To Run the app locally:
+git clone https://github.com/Janani-Jaganathan/Twitter_Clone
+
+Open cmd(Node.js)
+cd twitter_clone
+npm install
+npm start
+
+Initially "Twitter" Home page will be rendered.
+
+In order to render the search page:
+
+In App.js file, change the <TwitterHome/> Component to <TwitterSearch/> and save.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
