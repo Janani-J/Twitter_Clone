@@ -1,0 +1,278 @@
+#Maincontainer {
+  margin-left: 75px;
+  margin-right: 75px;
+  margin-top: 2px;
+  padding-top: 70px;
+  height: 2700px;
+  background-color:#e6ecf0;
+  color:#e6ecf0;
+  overflow:hidden;
+}
+
+.trend {
+  font-family: Helvetica;
+  color: #29B6F6;
+  font-size: 14px;
+  margin: 0px;
+  padding: 0px;
+  padding-left: 12px;
+  font-weight: bold;
+ 
+}
+
+.counts {
+  font-family: Helvetica;
+  color:#BDBDBD;
+  margin: 0px;
+  padding-top: 1px;
+  padding-bottom:12px;
+  padding-left: 12px;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+ul {
+  padding-left: 15px;
+  padding:2px;
+  text-Align:Left;
+  list-style-type: none;
+}
+
+.trend:hover {
+  font-family: Helvetica;
+  color: #29B6F6;
+  font-size: 14px;
+  text-decoration: underline;
+  margin: 0px;
+  padding: 0px;
+  padding-left: 12px;
+}
+
+.coverstyle {
+  width: 280px;
+  height: 100px;
+  margin-bottom: 0px;
+
+}
+
+.tagstyle {
+  margin-top: -20px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #757575;
+  font-weight:normal;
+  margin-left:90px;
+}
+
+.tagtyle:hover {
+  margin-top: -20px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  color: #757575;
+  font-weight:normal;
+  margin-left:90px;
+}
+
+.namestyle {
+  font-family: helvetica;
+  color: black;
+  margin-top:-45px;
+  font-weight:bold;
+  font-size: 18px;
+  line-height: 25px;
+  margin-left:90px;
+
+}
+
+.namestyle:hover {
+  font-family: helvetica;
+  text-decoration: underline;
+  margin-top: -45px;
+  color:#2979FF;
+  font-weight:bold;
+  font-size: 18px;
+  line-height: 25px;
+  margin-left:90px;
+ 
+}
+
+.profilestyle {
+  color: #2979FF;
+  width: 40px
+}
+
+.profiledetails {
+  display: flex;
+  margin-left: -12px;
+  margin-top:-20px;
+  margin-bottom: 5px;
+  padding-top: 3px;
+  height: 30px;
+}
+.title {
+  color: #757575;
+  font-weight:bold;
+  font-size:12px;
+  margin-left: 25px;
+  margin-top:22px;
+}
+
+.title:hover {
+  color: #81D4FA;
+  font-weight:bold;
+  font-size:12px;
+  margin-top:22px;
+  margin-left: 25px;
+  
+}
+
+.tcount {
+  color: #81D4FA;
+  font-weight: bold;
+  font-size:15px;
+  margin-top:-8px;
+  margin-left: 25px;
+}
+
+.tcount:hover {
+  color: #81D4FA;
+  font-weight: bold;
+  font-size:15px;
+  margin-top:-8px;
+  margin-left: 10px;
+}
+
+
+.followerheading{
+  display: block;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 18px;
+  padding-left: 8px;
+}
+
+.followcontainer  {
+  padding-left: 10px;
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}
+
+.headerstyle  {
+  display: block;
+  font-weight: bold;
+  font-family: helvetica;
+  font-size: 14px;
+  padding-left: 6px;
+  margin-left: 50px;
+  margin-top:-50px;
+}
+
+.handlestyle  {
+  color: #657786;
+  font-weight:normal;
+  font-family: helvetica;
+  font-size: 14px;    
+}
+
+
+.Buttonstyle  {
+  width: 30px;
+  height: 20px;
+  display: block;
+  margin-left: 20px;
+  border-radius: 25px;
+  border: 2px solid #81D4FA;
+  color: #81D4FA;
+}
+
+.Buttoncontainer  {
+  width: 30px;
+  height: 20px;
+  display: block;
+  margin-left: 20px;
+  border-radius: 25px;
+  border: 2px solid #81D4FA;
+  color: #81D4FA;
+}
+.heading1{
+  display: block;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+  padding-left: 8px;
+  margin-left: 117px;
+  margin-top:-16px;
+  color:#41B2DB;
+  cursor: pointer;
+
+}
+
+.heading1:hover{
+  display: block;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+  padding-left: 8px;
+  margin-left: 117px;
+  margin-top:-16px;
+  color:#41B2DB;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.heading2{
+  display: block;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+  padding-left: 15px;
+  margin-left: 160px;
+  margin-top:-14px;
+  color:#41B2DB;
+  cursor: pointer;
+
+}
+
+.heading2:hover{
+  display: block;
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+  padding-left: 15px;
+  margin-left: 160px;
+  margin-top:-14px;
+  color:#41B2DB;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.hr{
+  color:#657786;
+  padding-bottom: 8px;
+}
+
+.findpeople{
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+  color:#41B2DB;
+  cursor: pointer;
+  display: inline-block;
+  padding-Left: 10px;
+}
+.findpeople:hover{
+  font-weight: normal;
+  font-family: helvetica;
+  font-size: 12px;
+  color:#41B2DB;
+  cursor: pointer;
+  display: inline-block;
+  padding-Left: 10px;
+  text-decoration: underline;
+}
+
+a:hover{
+  color:#41B2DB;
+  text-decoration: underline;
+  cursor:pointer;
+}
